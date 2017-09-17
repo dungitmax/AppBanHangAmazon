@@ -136,9 +136,9 @@
 
             <TableLayout
                 android:id="@+id/tblChiTietSp"
-                android:gravity="center"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:gravity="center">
 
                 <TableRow
                     android:id="@+id/tableRow1"
@@ -160,7 +160,7 @@
                         android:id="@+id/tv1.2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="@drawable/button-background"
+                    <!--android:background="@drawable/button_background"-->
                         android:padding="5dp"
                         android:text="TextView"
                         android:textAppearance="?android:attr/textAppearanceMedium"></TextView>
@@ -179,16 +179,16 @@
                         android:id="@+id/tv2.1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="@drawable/button-background"
+                    <!--android:background="@drawable/button-background"-->
                         android:padding="5dp"
                         android:text="TextView"
-                        android:textAppearance="?android:attr/textAppearanceMedium"></TextView>
+                    android:textAppearance="?android:attr/textAppearanceMedium">
 
                     <TextView
                         android:id="@+id/tv2.2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="@drawable/button-background"
+                    <!--android:background="@drawable/button-background"-->
                         android:padding="5dp"
                         android:text="TextView"
                         android:textAppearance="?android:attr/textAppearanceMedium"></TextView>
@@ -268,9 +268,9 @@
         android:text="Thêm vào giỏ hàng"
         android:textSize="24dp"
         android:verticalScrollbarPosition="defaultPosition"
-        fix
 
-        android:layout_width="wrap_content"
+
+    android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
 

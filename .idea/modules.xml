@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Amazon_App.iml" filepath="$PROJECT_DIR$/Amazon_App.iml" />
+      <module fileurl="file://C:\Users\MrLinh\AndroidStudioProjects\Do_An_Android_ItPlus\AppBanHangAmazon\Amazon_App.iml" filepath="C:\Users\MrLinh\AndroidStudioProjects\Do_An_Android_ItPlus\AppBanHangAmazon\Amazon_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppBanHangAmazon.iml" filepath="$PROJECT_DIR$/AppBanHangAmazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
